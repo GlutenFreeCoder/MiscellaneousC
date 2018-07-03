@@ -17,12 +17,12 @@ int main()
 	scanf("%f", &increment);
 
 	/* Table Output */
-	printf("\nCelcius\tFahrenheit\n");
+	printf("\nCelcius\t Fahrenheit\n");
 
 celcius = start;
 while (celcius <= end) {
 	fahr = (celcius * 1.8) + 32.0;
-	printf("%6.1f \t %6.1f\n", celcius, fahr);
+	printf("%6.1f \t %8.1f\n", celcius, fahr);
 
 	celcius = celcius + increment;
 	}
