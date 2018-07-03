@@ -1,2 +1,3 @@
-# MiscellaneousC
-Some C utilities, developed alongside learning the language
+# Miscellaneous C Stuff
+
+Some C utilities, developed while learning the language
